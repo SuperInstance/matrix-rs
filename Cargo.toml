@@ -1,0 +1,13 @@
+[package]
+name = "matrix-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "Dense matrix operations: LU/QR decomposition, determinant, inverse, and eigenvalue estimation"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/matrix-rs"
+keywords = ["matrix", "linear-algebra", "lu-decomposition", "qr-decomposition", "math"]
+categories = ["mathematics", "algorithms", "science"]
+readme = "README.md"
+
+[dependencies]
